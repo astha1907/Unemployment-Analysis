@@ -38,9 +38,11 @@ The historical dataset analysis found differences in unemployment rates across r
 
 ## How to Run
 
-1. Install the required libraries.
+1. Install the required libraries:
+   pip install -5 requirements.txt
 2. Open the Jupyter Notebook.
 3. Run the notebook cells in order.
+
 
 ## Note
 
